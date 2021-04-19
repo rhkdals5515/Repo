@@ -7,7 +7,11 @@ public class Qustion2 {
 		
 		System.out.println("Random!!");
 		
-		System.out.println("branchA에 추가");
-		System.out.println("branchA에 하나 더 추가");
+		System.out.println("branchB에서 추가");
+		System.out.println("branchB에 하나 더 추가");
+		
+		// branchA,B 모두에 커밋을 2개 추가하고 history 내역을 보낼 것
+		// (단, Question2만 수정해야 함 ※ 이 주석은 branchB에서 작성되었음)
+		
 	}
 }
