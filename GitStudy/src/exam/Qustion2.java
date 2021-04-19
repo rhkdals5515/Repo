@@ -13,5 +13,6 @@ public class Qustion2 {
 		// branchA,B 모두에 커밋을 2개 추가하고 history 내역을 보낼 것
 		// (단, Question2만 수정해야 함 ※ 이 주석은 branchB에서 작성되었음)
 		
+		// main branch에 branchA를 합치고 history 내역을 보내주세요
 	}
 }
