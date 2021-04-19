@@ -90,9 +90,10 @@ class podoDescending implements Comparator<Grape>{
 		} else if (o1.fruit == o2.fruit) {
 			return 0;
 		} else {
-	}
+			return -1;
+		}
 }
-
+}
 class 포도분류기_GNO기준_내림차순 implements Comparator<Grape> {
 	
 	@Override
@@ -145,7 +146,7 @@ class Grape {
 		this.fruit = fruit;
 		return this;
 	}
-	
+
 	/*
 	 	# equals()
 	 	
